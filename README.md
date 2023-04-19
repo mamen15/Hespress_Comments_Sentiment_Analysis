@@ -14,3 +14,8 @@ Python 3.x
 ## Description
 
 You will the description for this project in the Sentiment_Analysis_BANANI_MOHAMED_AMINE.pdf file
+
+## Architecture (Lambda)
+ 
+![alt text](file:///C:/Users/HP/Desktop/Architecture.png)
+
