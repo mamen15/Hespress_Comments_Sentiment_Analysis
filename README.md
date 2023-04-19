@@ -17,5 +17,5 @@ You will the description for this project in the Sentiment_Analysis_BANANI_MOHAM
 
 ## Architecture (Lambda)
  
-![alt text](file:///C:/Users/HP/Desktop/Architecture.png)
+![alt text](https://github.com/mamen15/Hespress_Comments_Sentiment_Analysis/blob/main/Architecture.png)
 
